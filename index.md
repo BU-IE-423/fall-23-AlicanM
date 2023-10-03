@@ -1,7 +1,7 @@
 # Welcome to My Progress Journal
-```
+
 Hello, I'm Ali Can Milani. I am a double major student studying industrial engineering and computer engineering at Boğaziçi University. This is my progress journal page for IE423 Quality Engineering Course.
-```
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/BU-IE-423/fall-23-ilaydacelenkk/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
