@@ -42,8 +42,8 @@ In the world of financial markets, the study of stock prices captivates our atte
 
 <!-- Links -->
 
--   Our markdown document can be found here (https://github.com/BU-IE-423/fall-23-AlicanM/blob/main/Project%20Part%201/ie423_project_part1.Rmd) 
--   The data used in this study can be found here (https://github.com/BU-IE-423/fall-23-AlicanM/tree/main/Project%20Part%201/Project%20Part%201%20Data)
+-   Our markdown document can be found [here](https://bu-ie-423.github.io/fall-23-AlicanM/Project_Part1/ie423_project_part1.Rmd) (.Rmd file).
+-   The data used in this study can be found [here](https://bu-ie-423.github.io/fall-23-AlicanM/Project_Part1/Project_Part1_Data.zip) (.zip file)
 
 # Data Retrieval and Manipulation
 
